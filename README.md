@@ -87,4 +87,4 @@ GET http://localhost/rest/V1/order/status/12000026193
 **This module is open-source and free to use under the MIT licence**
 
 ## Contact
-If you have any qustions or encounter issues, feel free to open an issue on the repository or contact the development team at ma.briseno@mavi.mx
+If you have any qustions or encounter issues, feel free to open an issue on the repository or contact the development team at miguel.briseno.bustos@gmail.com
